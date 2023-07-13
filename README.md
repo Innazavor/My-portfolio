@@ -26,3 +26,8 @@ https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833
 https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing
 #### Тестирование API
 https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing
+#### 4.Отчет о результатах тестирования
+https://docs.google.com/document/d/1RxA2AENKWOV2-hLP--9Y9_rFVMb2roKhndVDmX4ca74/edit?usp=sharing
+## Контактная информация:
+Email: annagatta@mail.ru
+
