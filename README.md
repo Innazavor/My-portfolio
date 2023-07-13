@@ -22,3 +22,7 @@ https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/
 https://docs.google.com/document/d/1K0gE7lsn9j8gMTpMHcichyV7GwwvDIOT6Y7iqy_R12c/edit?usp=sharing
 #### 2.Декомпозиция
 https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833
+#### 3.Тестирование через UI
+https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing
+#### Тестирование API
+
