@@ -25,4 +25,4 @@ https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833
 #### 3.Тестирование через UI
 https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing
 #### Тестирование API
-
+https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing
