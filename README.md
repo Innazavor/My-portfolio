@@ -18,3 +18,5 @@ https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/
 
 4.Написать отчет о результатах тестирования
 ### Как решала:
+#### 1.Тест-план.
+https://docs.google.com/document/d/1K0gE7lsn9j8gMTpMHcichyV7GwwvDIOT6Y7iqy_R12c/edit?usp=sharing
