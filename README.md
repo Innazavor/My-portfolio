@@ -26,6 +26,10 @@ https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833
 https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing
 #### Тестирование API
 https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing
+
+##### Postman-collection
+[Cсылка](https://github.com/Innazavor/My-portfolio/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201%20%D0%B8%202.postman_collection.json)
+
 #### 4.Отчет о результатах тестирования
 https://docs.google.com/document/d/1RxA2AENKWOV2-hLP--9Y9_rFVMb2roKhndVDmX4ca74/edit?usp=sharing
 ## Контактная информация:
