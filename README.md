@@ -19,11 +19,14 @@ https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/
 4.Написать отчет о результатах тестирования
 ### Как решала:
 #### 1.Тест-план.
-https://docs.google.com/document/d/1K0gE7lsn9j8gMTpMHcichyV7GwwvDIOT6Y7iqy_R12c/edit?usp=sharing
+[Ссылка](https://docs.google.com/document/d/1K0gE7lsn9j8gMTpMHcichyV7GwwvDIOT6Y7iqy_R12c/edit?usp=sharing) 
+![Снимок экрана (195)](https://github.com/Innazavor/My-portfolio/assets/139270013/314b50a7-ee75-46c0-a8c5-0a405a3cd7f3)
+
 #### 2.Декомпозиция
-https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833
+[Ссылка](https://miro.com/app/board/uXjVPm3o5r0=/?share_link_id=793250181833)
+![Снимок экрана (193)](https://github.com/Innazavor/My-portfolio/assets/139270013/92b78734-e826-49e8-8709-fc88f70edccf)
 #### 3.Тестирование через UI
-https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing
+[Ссылка](https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing) 
 #### Тестирование API
 https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing
 
