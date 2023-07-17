@@ -40,6 +40,13 @@ SoapUI, Git, Chrome DevTools.
 ![Снимок экрана (202)](https://github.com/Innazavor/My-portfolio/assets/139270013/62f02228-3d46-4af0-ab21-6b1faae18cbc)
 ![Снимок экрана (203)](https://github.com/Innazavor/My-portfolio/assets/139270013/d65d1f19-fdcb-46ad-8028-7cf8e8f542b5)
 ![Снимок экрана (205)](https://github.com/Innazavor/My-portfolio/assets/139270013/bfaa4884-6490-40e3-8b5f-9d49a4930718)
+## Работа с SQL
+[Работа 1](https://docs.google.com/spreadsheets/d/1QpKy-gtChZzvAmNJhGu-rfHuneKC_Kb3_bdN0kaioN0/edit?usp=sharing)
+
+[Работа 2](https://docs.google.com/spreadsheets/d/1lpmDM1YVRwJabXtv38f3xSx5WC0vBMpfyfsclQxzMRw/edit?usp=sharing)
+
+[Работа 3](https://docs.google.com/document/d/16t_Bi-jL31JyprwOfiloFntxRDCddp3S3gqHr1ArDsc/edit?usp=sharing)
+![Снимок экрана (209)](https://github.com/Innazavor/My-portfolio/assets/139270013/37c21725-40b2-47c6-831e-56ebbac7b9a1)
 
 ## Контактная информация:
 Email: annagatta@mail.ru
