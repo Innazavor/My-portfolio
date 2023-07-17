@@ -27,8 +27,11 @@ https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/
 ![Снимок экрана (193)](https://github.com/Innazavor/My-portfolio/assets/139270013/92b78734-e826-49e8-8709-fc88f70edccf)
 #### 3.Тестирование через UI
 [Ссылка](https://docs.google.com/document/d/1QAgMcFl_135ByQltVTtyq4rudzClJcBhO1CvNxx-UM0/edit?usp=sharing) 
+![Снимок экрана (198)](https://github.com/Innazavor/My-portfolio/assets/139270013/d98a2ffc-b4aa-4a10-bdae-8e4819782ebf)
+![Снимок экрана (199)](https://github.com/Innazavor/My-portfolio/assets/139270013/315cafc1-65f3-4545-b43a-e2be05119e74)
+
 #### Тестирование API
-https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing
+[Ссылка](https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing) 
 
 ##### Postman-collection
 [Cсылка](https://github.com/Innazavor/My-portfolio/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201%20%D0%B8%202.postman_collection.json)
