@@ -8,7 +8,7 @@ SoapUI, Git, Chrome DevTools.
 ## Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
 ### Требования к новому функционалу:
-https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/edit?usp=sharing
+[Требования](https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/edit?usp=sharing) 
 ### Что нужно было сделать:
 1.Cделать тест-план
 
@@ -33,11 +33,14 @@ https://docs.google.com/document/d/1Lj4igiSGUpSe_3hD1-trgCixC0b-MV_tDVgBZ0lFVls/
 #### Тестирование API
 [Ссылка](https://docs.google.com/document/d/1pvX94kzDsJ9cS82kzfcvJ1k9yddGePJvQOzQcYnYEhk/edit?usp=sharing) 
 
-##### Postman-collection
-[Cсылка](https://github.com/Innazavor/My-portfolio/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201%20%D0%B8%202.postman_collection.json)
+[ Postman-collection](https://github.com/Innazavor/My-portfolio/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201%20%D0%B8%202.postman_collection.json)
 
 #### 4.Отчет о результатах тестирования
-https://docs.google.com/document/d/1RxA2AENKWOV2-hLP--9Y9_rFVMb2roKhndVDmX4ca74/edit?usp=sharing
+[Отчет](https://docs.google.com/document/d/1RxA2AENKWOV2-hLP--9Y9_rFVMb2roKhndVDmX4ca74/edit?usp=sharing ) 
+![Снимок экрана (202)](https://github.com/Innazavor/My-portfolio/assets/139270013/62f02228-3d46-4af0-ab21-6b1faae18cbc)
+![Снимок экрана (203)](https://github.com/Innazavor/My-portfolio/assets/139270013/d65d1f19-fdcb-46ad-8028-7cf8e8f542b5)
+![Снимок экрана (205)](https://github.com/Innazavor/My-portfolio/assets/139270013/bfaa4884-6490-40e3-8b5f-9d49a4930718)
+
 ## Контактная информация:
 Email: annagatta@mail.ru
 
